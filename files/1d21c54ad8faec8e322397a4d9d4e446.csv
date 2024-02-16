@@ -1,0 +1,5 @@
+name,code,barcode_symbology,brand,category_code,unit,sale_unit,purchase_unit,cost,price,alert_quantity,tax_rate,tax_method,image,subcategory_code,variants,mrp,hsn_code,warehouse,quantity
+Hair,,code128,,hair saloon,per person,per person,per person,90,100,20,GST@18%,exclusive,,,note|large|small,500,123456,Ware house 1-1,100
+Nails,,code128,,hair saloon,per person,per person,per person,100,200,20,GST@18%,exclusive,,,,500,123456,Ware house 1-1,100
+Lips,,code128,,men,per person,per person,per person,200,300,20,GST@18%,inclusive,,,,500,123456,Ware house 1-1,100
+Legs,,code128,,men,per person,per person,per person,300,400,20,GST@18%,inclusive,,,,500,123456,Ware house 1-1,100

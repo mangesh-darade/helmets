@@ -1,0 +1,2 @@
+name,code,divisionid,artical_code,barcode_symbology,brand,category_code,unit,sale_unit,purchase_unit,cost,price,alert_quantity,tax_rate,tax_method,image,subcategory_code,variants,mrp,hsn_code,warehouse,quantity,cf1,cf2,cf3,cf4,cf5,cf6,up_items,food_type_id,up_price,available
+Test Restaturant 1  08-07-2019,,4,code128,articalcode128,Guess,C1,pcs,pcs,dozen,90,100,20,NoTax GST,exclusive,no_image.png,SC1,102.25,101,123456,Ware house 1-1,10,cfr 1,cfr 2,,,,cfr 6,Yes,1,200,Yes

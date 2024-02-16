@@ -1,0 +1,2 @@
+name,code,divisionid,up_items,food_type_id,up_price,artical_code,barcode_symbology,brand,category_code,unit,sale_unit,purchase_unit,cost,price,alert_quantity,tax_rate,tax_method,image,subcategory_code,variants,mrp,hsn_code,warehouse,quantity
+Product 11,,4,Yes,1,100,code128,articalcode128,Guess,C1,pcs,pcs,dozen,90,100,20,NoTax GST,exclusive,no_image.png,SC1,102.25,101,123456,Ware house 1-1,10

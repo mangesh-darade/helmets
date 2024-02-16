@@ -1,0 +1,3 @@
+Code,Name,Image name,Parent Category Code (optional),Urbanpiper Category
+C1cc,Category 1,c1.png,,Yes
+SC1cc,Subcategory for C1,c1.png,C1cc,No

@@ -1,0 +1,5 @@
+Code,Name,Image name,Parent Category Code (optional)
+soup,Soup,c1.png,
+t-soup1,Tomato Soup,c1.png,soup
+t-soup,SweetCorn Soup,c1.png,soup
+soup,VegSoup,c1.png,

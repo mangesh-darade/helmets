@@ -1,0 +1,62 @@
+[18-Jan-2024 19:15:34 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sitadmin/public_html/posmerchants/helmets/app/models/Pos_model.php on line 1078
+[18-Jan-2024 19:16:43 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sitadmin/public_html/posmerchants/helmets/app/models/Pos_model.php on line 1078
+[24-Jan-2024 20:10:34 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sitadmin/public_html/posmerchants/helmets/app/models/Pos_model.php on line 1078
+[24-Jan-2024 20:10:44 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/sitadmin/public_html/posmerchants/helmets/app/models/Pos_model.php on line 1078
+[04-Feb-2024 21:12:40 Asia/Kolkata] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: sessions) in /home/sitadmin/public_html/posmerchants/helmets/system/libraries/Session/Session.php on line 141
+[07-Feb-2024 16:50:35 Asia/Kolkata] PHP Fatal error:  session_start(): Failed to initialize storage module: user (path: sessions) in /home/sitadmin/public_html/posmerchants/helmets/system/libraries/Session/Session.php on line 141
+[10-Feb-2024 18:22:06 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[10-Feb-2024 18:35:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[10-Feb-2024 19:05:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[10-Feb-2024 19:24:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[10-Feb-2024 22:39:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[10-Feb-2024 23:45:10 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[10-Feb-2024 23:48:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[10-Feb-2024 23:52:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[10-Feb-2024 23:55:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[10-Feb-2024 23:59:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 00:02:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 00:06:19 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 00:09:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 00:13:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 00:16:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 00:22:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 00:41:37 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 00:45:08 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 00:48:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 00:52:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 00:55:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 00:59:15 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 01:03:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 01:08:04 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:28:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:28:15 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:28:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:28:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:28:20 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:28:29 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:28:30 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:28:34 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:28:34 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:28:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:30:38 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:30:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:30:42 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:30:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:30:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:34:58 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:41:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:43:41 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:44:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:52:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 06:53:16 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 07:06:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 07:18:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 07:20:26 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 07:20:27 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 07:30:15 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 07:30:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 07:54:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 07:54:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 08:08:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 08:08:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
+[11-Feb-2024 08:09:44 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sitadmin/public_html/posmerchants/helmets/index.php on line 4
